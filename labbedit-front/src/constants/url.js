@@ -1,0 +1,1 @@
+export const BASE_URL = "https://projeto-labeddit-backend-88qh.onrender.com";
